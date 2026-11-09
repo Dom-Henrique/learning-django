@@ -1,7 +1,8 @@
-# WELCOME TO THE DJANGO
+# 🌲 | WELCOME TO THE DJANGO
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Hello, community! I'm Dom Henry (Dom Henrique in Brazilian Portuguese). How are you doing?
 
@@ -12,6 +13,7 @@ The main goal is to put theory into practice by developing a simple web applicat
 Whether you're a beginner, an experienced developer or simply curious about Django, feel free to explore this repository!
 
 ---
+![](https://64.media.tumblr.com/e7c949436bd59afe33cdcc26da7a2e37/eed30d98a982a932-58/s1280x1920/31d88684a3d7763d7fe2d95d29c4fd2e8a1adb97.gifv)
 
 ## 🎯 Project Goals
 
